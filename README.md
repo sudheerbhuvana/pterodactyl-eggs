@@ -1,6 +1,6 @@
-# Parkers Pterodactyl eggs repo
+# Fork of Parkers Pterodactyl eggs repo
 
-I am working on adding a large collection of public eggs for the Pterodactyl community.
+I will start to create a Place for more Eggs than in Parker Repo. 
 
 With that I am also accepting PR's for new services and also updates to the current ones.
 
